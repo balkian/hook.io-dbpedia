@@ -6,12 +6,10 @@ Description
 ---------------------
 This module is part of the Web4.0 project.
 
-So far, it performs basic queries to dbpedia, but the same code could be use to query any other sparql endpoint.
+So far, it performs basic queries to dbpedia, using the SPARQL Hook.
 
 Dependencies
 --------------------
 To run this project, you will need to install the following dependencies through npm:
 
-- coffee-script
-- sparql
-- hook.io
+- hook.io-sparql
